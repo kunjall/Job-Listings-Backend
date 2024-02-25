@@ -39,6 +39,7 @@ This project involves creating a backend RESTful API using Node.js, Express, and
    - Replace `<username>` with your MongoDB username.
    - Replace `<password>` with the password for the database user.
    - Replace `<dbname>` with the name of your MongoDB database.
+   - URL is the connection string (directly copy)
 
 ## Usage
 

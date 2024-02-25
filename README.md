@@ -68,7 +68,7 @@ Set up the .env file as instructed in the installation section.
 
 **You can test them using Postman**
 
-**Postman collection: **
+**Postman collection:**
 `https://elements.getpostman.com/redirect?entityId=26089168-34c6e6b9-88b8-439c-808a-e20da04a8564&entityType=collection`
 
 - Login **(POST)**
